@@ -1,0 +1,18 @@
+.classic {
+    background-color: rgb(255, 127, 127);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id_1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.font {
+    font-size: 24px;
+}
+
+#id_2 {
+    font-weight: bold;
+    background-color: rgb(127, 255, 127);
+}
